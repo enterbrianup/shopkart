@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopkart/static/css/main.5ac13c15.css",
+    "main.js": "/shopkart/static/js/main.5090c35b.js",
+    "index.html": "/shopkart/index.html",
+    "main.5ac13c15.css.map": "/shopkart/static/css/main.5ac13c15.css.map",
+    "main.5090c35b.js.map": "/shopkart/static/js/main.5090c35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac13c15.css",
+    "static/js/main.5090c35b.js"
+  ]
+}
