@@ -1,6 +1,6 @@
 {
   "homepage": "https://enterbrianup.github.io/shopkart",
-  "name": "Shopkart",
+  "name": "shopkart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
