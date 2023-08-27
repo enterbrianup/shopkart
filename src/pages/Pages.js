@@ -54,7 +54,7 @@ const Page = () => {
       <div className="contact-us">CONTACT US</div>
       
       {/* first page or banner Fresh Look 2002 */}
-      <div className="fresh">Fresh</div>
+      // <div className="fresh">Fresh</div>
       <div className="Look">Look</div>
       <div className="year">2022</div>
       {/* New products list  */}
