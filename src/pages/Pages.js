@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div className="desktop-1">
       <div className="desktop-1-child" />
-      <img className="rectangle-icon" alt="" src="./rectangle@2x.png" />
+      <img className="rectangle-icon" alt="" src="./public/rectangle@2x.png" />
       {/* product image */}
       <div className="rectangle-parent">
         <div className="group-child" />
