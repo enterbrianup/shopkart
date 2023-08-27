@@ -9,14 +9,14 @@ const Page = () => {
       {/* product image */}
       <div className="rectangle-parent">
         <div className="group-child" />
-        <img className="group-item" alt="" src="/star-3.svg" />
+        <img className="group-item" alt="" src="./star-3.svg" />
         <img
           className="jessica-radanavong-ichpbhfd0pw-icon"
           alt=""
-          src="/jessicaradanavongichpbhfd0pwunsplash@2x.png"
+          src="./jessicaradanavongichpbhfd0pwunsplash@2x.png"
         />
         <div className="group-inner" />
-        <img className="star-icon" alt="" src="/star-4.svg" />
+        <img className="star-icon" alt="" src="./star-4.svg" />
         <div className="oregon-jacket">Oregon jacket</div>
         <div className="div">$124</div>
         <div className="line-div" />
@@ -24,17 +24,17 @@ const Page = () => {
       <img
         className="zam-nungaray-acw3b7q6ys0-unspl-icon"
         alt=""
-        src="/zamnungarayacw3b7q6ys0unsplash@2x.png"
+        src="./zamnungarayacw3b7q6ys0unsplash@2x.png"
       />
       <img
         className="philipp-arlt-nmh9a0obon8-unspl-icon"
         alt=""
-        src="/philipparltnmh9a0obon8unsplash@2x.png"
+        src="./philipparltnmh9a0obon8unsplash@2x.png"
       />
       <img
         className="philipp-arlt-8eyb-rvawty-unspl-icon"
         alt=""
-        src="/philipparlt8eyb-rvawtyunsplash@2x.png"
+        src="./philipparlt8eyb-rvawtyunsplash@2x.png"
       />
       {/* Shopkart heading wih wishlist and Bag */}
       <div className="bag-0">BAG (0)</div>
