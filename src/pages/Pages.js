@@ -9,14 +9,14 @@ const Page = () => {
       {/* product image */}
       <div className="rectangle-parent">
         <div className="group-child" />
-        <img className="group-item" alt="" src="./star-3.svg" />
+        <img className="group-item" alt="" src="./public/star-3.svg" />
         <img
           className="jessica-radanavong-ichpbhfd0pw-icon"
           alt=""
-          src="./jessicaradanavongichpbhfd0pwunsplash@2x.png"
+          src="./public/jessicaradanavongichpbhfd0pwunsplash@2x.png"
         />
         <div className="group-inner" />
-        <img className="star-icon" alt="" src="./star-4.svg" />
+        <img className="star-icon" alt="" src="./public/star-4.svg" />
         <div className="oregon-jacket">Oregon jacket</div>
         <div className="div">$124</div>
         <div className="line-div" />
